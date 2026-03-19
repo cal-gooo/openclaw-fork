@@ -10,6 +10,7 @@ const ALLOWED_EXTENSION_PUBLIC_SURFACES = new Set([
   "api.js",
   "index.js",
   "login-qr-api.js",
+  "light-runtime-api.js",
   "runtime-api.js",
   "session-key-api.js",
   "setup-api.js",
